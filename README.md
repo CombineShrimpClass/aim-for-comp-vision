@@ -1,10 +1,10 @@
 # 🎯 CV-Based AI Aim Assistant for FPS Games
 
 ![AI Aim Assistant](https://img.shields.io/badge/AI-Aim_Assistant-red?style=for-the-badge)
-[![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-blue?style=flat-square)]
-[![Python](https://img.shields.io/badge/Python-3.12-yellow?style=flat-square)]
-[![Windows](https://img.shields.io/badge/Platform-Windows-success?style=flat-square)]
-[![License](https://img.shields.io/badge/License-Educational-green?style=flat-square)]
+![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12-yellow?style=flat-square)
+![Windows](https://img.shields.io/badge/Platform-Windows-success?style=flat-square)
+![License](https://img.shields.io/badge/License-Educational-green?style=flat-square)
 
 **Computer-vision based aim analysis and training tool for FPS games using YOLO, BetterCam, OpenCV, and real-time screen detection.**
 
